@@ -1,8 +1,8 @@
-# 🚀 My 90-Day AI Mastery Journey
+# My 90-Day AI Mastery Journey
 
-Welcome to my 90-day focused journey to master cutting-edge AI skills and land a high-paying GenAI/Agentic AI job or internship.
+Welcome to my 90-day focused journey to master cutting-edge AI skills.
 
-## 📚 Focus Areas
+## Focus Areas
 
 - 🐍 Python Programming Challenges (daily problem solving)
 - 🔌 API Mastery (OpenAI, Hugging Face, LangChain, FastAPI, etc.)
@@ -11,7 +11,7 @@ Welcome to my 90-day focused journey to master cutting-edge AI skills and land a
 - 🕸 Agentic AI (LangChain/LangGraph agents, memory, tools)
 - 📓 Daily Logs & Milestones
 
-## 🎯 Goals
+## Goals
 
 - Land a remote internship or job at top AI companies
 - Build portfolio-worthy projects
@@ -20,11 +20,11 @@ Welcome to my 90-day focused journey to master cutting-edge AI skills and land a
 
 ---
 
-### 📌 Current Status: `Day X / 90`
+### Current Status: `Day X / 90`
 
 Follow the journey:
-- 🔗 [GitHub](https://github.com/Hasnain-tech295)
-- 🔗 [X/Twitter](https://x.com/YOUR_USERNAME)
+-  [GitHub](https://github.com/Hasnain-tech295)
+-  [X/Twitter](https://x.com/YOUR_USERNAME)
 
 ---
 
