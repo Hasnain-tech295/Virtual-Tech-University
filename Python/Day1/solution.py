@@ -23,7 +23,6 @@ print(smart_calculator(1.5, 2.5, '+'))
 
 
 # Problem 2 - Numbers to WOrds
-# 123 -> "One Two Three"
 operation = {
     '1' : 'One',
     '2' : 'Two',
@@ -42,7 +41,6 @@ def number_to_words(n: int) -> str:
     new_str = ""
     for char in num:
         if char in operation:
-            operation[char]
             new_str = new_str +" " + operation[char]
     
     return new_str.strip()
@@ -69,7 +67,7 @@ def password_strength(password: str) -> str:
         elif not char.isalnum():
             has_special = True
     
-    if has_upper == True and has_digits == True and has_lower == True and has_special == True:
+    if has_upper and has_digits and has_lower and has_special:
         return "Strong"
     else: return "Medium"
 
@@ -104,7 +102,7 @@ def digit_analysis(n: int) -> dict:
     output = {
         "even": even(n),
         "odd" : odd(n),
-        "count" : total_digits(n)
+        "total digits" : total_digits(n)
     }
     
     return output
@@ -126,17 +124,20 @@ def atm():
     
     while True:
         choice = int(input("Enter your choice:- "))
-        if choice == 3:
+        if choice == 2:
+            withdraw = int(input("Enter amount to withdraw :- "))
+            if amt>withdraw:
+                amt -= withdraw
+                print("Amount '{}' withdrawn successfully.".format(withdraw))
+                print("Remaining Amount :- {}".format(amt))
+            else:
+                print("Insufficient Amount...")
+                
+        elif choice == 3:
             deposit = int(input("Enter Amount to deposit :- "))
             print("Amount '{}' deposited successfully...".format(deposit))
             amt += deposit
             print("Total Amount :- {}".format(amt))
-        
-        elif choice == 2:
-            withdraw = int(input("Enter amount to withdraw :- "))
-            amt -= withdraw
-            print("Amount '{}' withdrawn successfully.".format(withdraw))
-            print("Remaining Amount :- {}".format(amt))
         
         elif choice == 1:
             print("Balance:- {}".format(amt))
