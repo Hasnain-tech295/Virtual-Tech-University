@@ -1,33 +1,66 @@
-# My 90-Day AI Mastery Journey
+# 🎓 Virtual Tech University — My AI Developer Journey
 
-Welcome to my 90-day focused journey to master cutting-edge AI skills.
+> *“No degree. No excuses. Just execution.”*
 
-## Focus Areas
+Welcome to the **Virtual Tech University**, a self-directed, 180 days transformation journey where I commit to becoming a world-class AI & Agentic AI Developer — without a traditional college degree.
 
-- 🐍 Python Programming Challenges (daily problem solving)
-- 🔌 API Mastery (OpenAI, Hugging Face, LangChain, FastAPI, etc.)
-- 🧠 Prompt Engineering (creative + technical prompting)
-- 🤖 GenAI Projects (LLM apps, RAG, tools)
-- 🕸 Agentic AI (LangChain/LangGraph agents, memory, tools)
-- 📓 Daily Logs & Milestones
-
-## Goals
-
-- Land a remote internship or job at top AI companies
-- Build portfolio-worthy projects
-- Grow GitHub + X/Twitter presence
-- Participate in hackathons and OSS
+This repository is my **digital campus**, my notebook, my proof of work, and my public commitment.
 
 ---
 
-### Current Status: `Day X / 90`
+## 🧭 Vision
 
-Follow the journey:
--  [GitHub](https://github.com/Hasnain-tech295)
--  [X/Twitter](https://x.com/YOUR_USERNAME)
+To go from zero to an elite AI/Agentic AI engineer — capable of building production-grade intelligent systems, contributing to open-source, and landing opportunities at top companies like **Hugging Face**, **OpenAI**, and beyond.
 
 ---
 
-## 🤝 Contributions & Feedback
-I’m learning in public. Feel free to give feedback or suggestions — I’m all ears!
+## 📚 Structure
 
+This Virtual University is divided into **Daily Missions**, **Capstone Projects**, and **Internship Applications**.  
+It combines theory, real-world projects, API mastery, and deep understanding.
+
+| Component           | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| 📅 120-Day Timeline  | Daily structured learning & building across AI, Python, LangChain, APIs     |
+| 🚀 Capstone Projects | Real-world Agentic AI systems, API apps, vector DB tools                    |
+| 🔁 Public Proof      | Regular GitHub pushes, X (Twitter) posts, and open feedback loops           |
+| 🧠 Mindset           | Discipline > Motivation. Consistency > Perfection.                          |
+
+---
+
+## 🛠️ Tools & Frameworks
+
+* 🐍 Python (Core language)
+* 🧠 LangChain, OpenAI API, Hugging Face
+* 📡 FastAPI, Requests, JSON
+* 💾 ChromaDB, Pinecone, FAISS (Vector DBs)
+* ⚙️ Git, GitHub, VS Code (Workflow)
+
+---
+
+## 🌟 Graduation Goals
+
+By the end of 120 days, I aim to:
+
+* ✅ Build & deploy 3–5 advanced Agentic AI projects
+* ✅ Contribute to open-source GenAI libraries
+* ✅ Become a **self-certified elite AI engineer**
+
+---
+
+## ❗Rules I Follow
+
+* 📅 Daily push or publish (GitHub/X)
+* 💤 No breaks without a valid reason
+* 🧪 Projects before perfection — build fast, then refine
+* 💬 Document everything (why, how, and what I learned)
+* 📈 Growth over comparison — I compete only with yesterday
+
+---
+
+## 📬 Reach Out
+
+* Twitter/X: https://x.com/Hasnain_tech295
+* GitHub Discussions / Issues — Open for collaboration & feedback!
+
+---
